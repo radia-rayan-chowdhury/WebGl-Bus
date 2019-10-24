@@ -22,9 +22,6 @@ Figure: Demo Picture 4
 ![](5.png)
 Figure: Demo Picture 5
 
-![](6.png)
-Figure: Demo Picture 6
-
 Group Members:<br/>
 Md. Saifur Rahman Chowdhury<br/>
 Radia Rayan Chowdhury<br/>
