@@ -6,9 +6,15 @@ Project Name: Bus<br/>
 Platform: WebGl<br/><br/>
 
 3D Bus:<br/>
-![alt text](https://github.com/radiarayanchowdhury/WebGl-Bus/edit/master/1.png)
-![alt text](https://github.com/radiarayanchowdhury/WebGl-Bus/edit/master/2.png)
-![alt text](https://github.com/radiarayanchowdhury/WebGl-Bus/edit/master/3.png)
+
+![](1.png)
+Figure: Demo Picture 1
+
+![](2.png)
+Figure: Demo Picture 2
+
+![](3.png)
+Figure: Demo Picture 3
 
 Group Members:<br/>
 Md. Saifur Rahman Chowdhury<br/>
