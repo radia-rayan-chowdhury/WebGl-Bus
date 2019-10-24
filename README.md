@@ -19,7 +19,7 @@ Figure: Demo Picture 3
 ![](4.png)
 Figure: Demo Picture 4
 
-![](5.png)
+![](6.png)
 Figure: Demo Picture 5
 
 Group Members:<br/>
